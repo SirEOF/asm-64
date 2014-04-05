@@ -1,4 +1,4 @@
-ASM-64vit
+ASM-64bit
 =========
 Shellcode develoop Linux 64 bit
 executando uma bin/sh com a syscall 59
